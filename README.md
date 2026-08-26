@@ -245,5 +245,3 @@ It showcases practical skills in **Python, SQL, Data Cleaning, EDA, Power BI, Da
 
 **Banti Kumar Singh**
 
-* GitHub: `https://github.com/your-username`
-* LinkedIn: `https://linkedin.com/in/your-profile`
